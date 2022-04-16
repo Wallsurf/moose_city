@@ -1,0 +1,14 @@
+{
+  "Title": "Moose City",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "moose_city",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}
