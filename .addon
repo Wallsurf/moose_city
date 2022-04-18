@@ -1,7 +1,7 @@
 {
   "Title": "Moose City",
   "Type": "map",
-  "Org": "local",
+  "Org": "wallsurf",
   "Ident": "moose_city",
   "Schema": 1,
   "HasAssets": true,
