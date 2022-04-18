@@ -1,3 +1,4 @@
 source/
 maps/prefabs/old/
 *.vpk
+*.*_c
